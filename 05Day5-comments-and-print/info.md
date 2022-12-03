@@ -1,10 +1,11 @@
-Day 5 - Comments, Escape sequence & Print in Python
-Welcome to Day 5 of 100DaysOfCode. Today we will talk about Comments, Escape Sequences and little bit more about print statement in Python. We will also throw some light on Escape Sequences
+# Day 5 - Comments, Escape sequence & Print in Python
 
-Python Comments
+* Welcome to Day 5 of 100DaysOfCode. Today we will talk about Comments, Escape Sequences and little bit more about print statement in Python. We will also throw some light on Escape Sequences
+
+# Python Comments
 A comment is a part of the coding file that the programmer does not want to execute, rather the programmer uses it to either explain a block of code or to avoid the execution of a specific part of code while testing.
 
-Single-Line Comments:
+# Single-Line Comments:
 To write a comment just add a ‘#’ at the start of the line.
 
 Example 1
