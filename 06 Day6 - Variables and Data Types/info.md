@@ -1,5 +1,7 @@
 # Day 6 - Variables and Data Types
-What is a variable?
+
+# What is a variable?
+
 Variable is like a container that holds data. Very similar to how our containers in kitchen holds sugar, salt etc Creating a variable is like creating a placeholder in memory and assigning it some value. In Python its as easy as writing:
 
 a = 1
@@ -9,6 +11,7 @@ d = None
 These are four variables of different data types.
 
 # What is a Data Type?
+
 Data type specifies the type of value a variable holds. This is required in programming to do various operations without causing an error.
 In python, we can print the type of any operator using type function:
 
@@ -29,7 +32,8 @@ By default, python provides the following built-in data types:
    Boolean data consists of values True or False.
 
 4. Sequenced data: list, tuple
-   list: A list is an ordered collection of data with elements separated by a comma and enclosed within square brackets. Lists are mutable and can be modified after creation.
+
+# list: A list is an ordered collection of data with elements separated by a comma and enclosed within square brackets. Lists are mutable and can be modified after creation.
 
 Example:
 
@@ -38,7 +42,8 @@ print(list1)
 Output:
 
 [8, 2.3, [-4, 5], ['apple', 'banana']]
-Tuple: A tuple is an ordered collection of data with elements separated by a comma and enclosed within parentheses. Tuples are immutable and can not be modified after creation.
+
+# Tuple: A tuple is an ordered collection of data with elements separated by a comma and enclosed within parentheses. Tuples are immutable and can not be modified after creation.
 
 Example:
 
@@ -47,7 +52,8 @@ print(tuple1)
 Output:
 
 (('parrot', 'sparrow'), ('Lion', 'Tiger')) 5. Mapped data: dict
-dict: A dictionary is an unordered collection of data containing a key:value pair. The key:value pairs are enclosed within curly brackets.
+
+# dict: A dictionary is an unordered collection of data containing a key:value pair. The key:value pairs are enclosed within curly brackets.
 
 Example:
 
