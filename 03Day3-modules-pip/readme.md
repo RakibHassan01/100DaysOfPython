@@ -10,12 +10,12 @@ Module is like a code library which can be used to borrow code written by somebo
 The pip command
 It can be used as a package manager pip to install a python module. Lets install a module called pandas using the following command
 
-# pip install pandas :
+# pip install pandas 
 
 * Using a module in Python(Usage)
 We use the import syntax to import a module in Python. Here is an example code:
 
-    # Read and work with a file named 'words.csv'
+# Read and work with a file named 'words.csv'
 
 df = pandas.read_csv('words.csv')
 print(df) # This will display first few rows from the words.csv file
