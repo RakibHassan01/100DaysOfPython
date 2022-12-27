@@ -44,6 +44,7 @@ Syntax:
 
 ```
 tuple.count(element)
+
 ```
 
 Example
@@ -66,7 +67,7 @@ The Index() method returns the first occurrence of the given element from the tu
 Syntax:
 
 ```
-uple.index(element, start, end)
+tuple.index(element, start, end)
 ```
 
 Note: This method raises a ValueError if the element is not found in the tuple.
