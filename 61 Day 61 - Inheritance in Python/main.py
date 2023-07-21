@@ -1,3 +1,11 @@
+# Basic Syntax =>
+# class Superclass:
+    # Superclass attributes and methods
+
+# class Subclass(Superclass):
+    # Subclass attributes and methods
+
+#Example =>
 class Employee:
     def __init__(self, name, id) -> None:
         self.name = name
